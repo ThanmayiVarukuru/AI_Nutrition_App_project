@@ -49,6 +49,7 @@ input_prompt = """
     After that mention the meal is healthy meal or not and also mention the percentage split of ratio of 
     carbohydrates, proteins, fats, sugar and calories in meal.finally give suggestion which item 
     should be removed and which items should be added it meal to make the meal healthy if it's unhealthy
+    and tell if the meal is Managing Diabetes or useful of body building or weight loss 
 """
 #if submit button is clicked 
 
